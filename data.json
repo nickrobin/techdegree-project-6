@@ -1,0 +1,49 @@
+{
+ "projects" : [
+   {
+     "id" : 0,
+     "project_name" :"Random Quote Generator",
+     "description" :  "Show a new quote on the page each time the user clicks the \"Show Another Quote\" button",
+     "technologies" : ["HTML","JavaScript"],
+     "live_link" : "https://nickrobin.github.io/techdegree-project-1/",
+     "github_link" : "https://github.com/nickrobin/techdegree-project-1",
+     "image_urls" : ["/static/img/project_1.png"]
+   },
+   {
+     "id" : 1,
+     "project_name" :"List Pagination and Filtering",
+     "description" :  "Use unobtrusive javascript to modify the HTML and paginate the list of students on a page.",
+     "technologies" : ["HTML","JavaScript"],
+     "live_link" : "https://nickrobin.github.io/techdegree-project-2/",
+     "github_link" : "https://github.com/nickrobin/techdegree-project-2",
+     "image_urls" : ["/static/img/project_2.png"]
+   },
+   {
+     "id" : 2,
+     "project_name" :"Interactive Form",
+     "description" :  "use JavaScript to enhance an interactive registration form for a fictional conference called \"FullStack Conf\". Add customized and conditional behavior and interactivity. Validates user input and providing helpful error messages when the user enters invalid information into the form fields.",
+     "technologies" : ["HTML","JavaScript", "CSS"],
+     "live_link" : "https://nickrobin.github.io/techdegree-project-3/",
+     "github_link" : "https://github.com/nickrobin/techdegree-project-3",
+     "image_urls" : ["/static/img/project_3.png"]
+   },
+   {
+     "id" : 3,
+     "project_name" :"Object Oriented Game",
+     "description" :  "Create a browser-based, word guessing game: \"Phrase Hunter.\" Use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard.",
+     "technologies" : ["JavaScript","Object Orientation"],
+     "live_link" : "https://nickrobin.github.io/techdegree-project-4/",
+     "github_link" : "https://github.com/nickrobin/techdegree-project-4",
+     "image_urls" : ["/static/img/project_4.png"]
+   },
+   {
+     "id" : 4,
+     "project_name" :"Employee Directory",
+     "description" :  "Display an employee directory page from users requested from a random user generator API",
+     "technologies" : ["JQuery","APIs"],
+     "live_link" : "https://nickrobin.github.io/techdegree-project-5/",
+     "github_link" : "https://github.com/nickrobin/techdegree-project-5",
+     "image_urls" : ["/static/img/project_5.png"]
+   }
+ ]
+}
